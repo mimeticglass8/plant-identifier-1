@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/plant-species/page": "app/plant-species/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/identify-plant/route": "app/api/identify-plant/route.js"
+}
